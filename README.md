@@ -1,59 +1,90 @@
-# Hi, I’m Azri Burhan 👋
+<div align="center">
 
-### Software Developer · Web Development & Quality Assurance
+# hey, i'm azri 👋
 
-I build web applications and test how they behave in real user workflows. My interests include full-stack development, business automation and AI-assisted applications.
+### software developer · web development & QA
 
-Based in **Kedah, Malaysia**. IT graduate from **International Islamic University Malaysia (IIUM)**, specialising in **Information Assurance & Security**.
+Building useful things. Testing the details. Learning along the way.
 
-[Portfolio](https://azriburhan.github.io/) · [LinkedIn](https://www.linkedin.com/in/azri-burhan-112b00354/) · [Email](mailto:hafizburhan182@gmail.com)
+**Kedah, Malaysia 🇲🇾 · IIUM IT graduate · Information Assurance & Security**
+
+<a href="https://azriburhan.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/azri-burhan-112b00354/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:hafizburhan182@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-172554?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Azri"></a>
+
+</div>
 
 ---
 
-## What I work on
+### `01` / a little about me
 
-- **Web development:** responsive interfaces, application features and database-backed workflows.
-- **Quality assurance:** functional and negative testing, defect reporting, fix verification and interface reviews.
-- **Business automation:** customer conversations, CRM processes and AI-assisted workflows.
+I'm **Azri Burhan**, a software developer who enjoys turning practical problems into web applications. My current work focuses on **quality assurance**—checking user flows, documenting bugs and verifying fixes.
 
-## Selected projects
+I also build full-stack projects and explore how AI can help teams collaborate and businesses handle everyday work.
 
-### [CogniTeam](https://github.com/AzriBurhan/CogniTeam)
-**AI-driven team collaboration & task management**
+- 🛠️ **Building:** web apps, collaboration tools and business automation.
+- 🔍 **Working on:** functional testing, negative testing and interface reviews.
+- 🌱 **Exploring:** AI integrations and better software workflows.
+- 🎓 **Background:** Bachelor of IT (Honours), IIUM Gombak.
 
-A collaboration platform bringing together team workspaces, project management, Kanban boards, discussions and shared resources. Gemini-powered assistance, mood tracking and peer reviews provide additional context for productivity and team participation.
+### `02` / the toolkit
+
+**Interfaces**
+
+<img src="https://img.shields.io/badge/React-172554?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/TypeScript-172554?style=flat-square&amp;logo=typescript&amp;logoColor=60A5FA" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-172554?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/Tailwind_CSS-172554?style=flat-square&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/HTML5-172554?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML5"> <img src="https://img.shields.io/badge/CSS-172554?style=flat-square&amp;logo=css&amp;logoColor=60A5FA" alt="CSS">
+
+**Behind the scenes**
+
+<img src="https://img.shields.io/badge/Node.js-172554?style=flat-square&amp;logo=nodedotjs&amp;logoColor=86EFAC" alt="Node.js"> <img src="https://img.shields.io/badge/Express-172554?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/PHP-172554?style=flat-square&amp;logo=php&amp;logoColor=A5B4FC" alt="PHP"> <img src="https://img.shields.io/badge/MariaDB-172554?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB"> <img src="https://img.shields.io/badge/PostgreSQL-172554?style=flat-square&amp;logo=postgresql&amp;logoColor=93C5FD" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Supabase-172554?style=flat-square&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase">
+
+**Everyday tools**
+
+<img src="https://img.shields.io/badge/Git-172554?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git"> <img src="https://img.shields.io/badge/VS_Code-172554?style=flat-square&amp;logoColor=60A5FA" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" alt="REST APIs"> <img src="https://img.shields.io/badge/Gemini_API-2563EB?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini API">
+
+### `03` / things i'm building
+
+#### ◈ [CogniTeam ↗](https://github.com/AzriBurhan/CogniTeam)
+
+**Less scattered work. More team clarity.**
+
+An AI-driven collaboration and task management platform. Team workspaces, Kanban boards, discussions and shared resources bring project work together. Gemini-assisted insights, mood tracking and peer reviews add context to team participation.
 
 `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `Gemini API`
 
-### WahaBot
-**WhatsApp business automation · In Development**
+[Explore the repository →](https://github.com/AzriBurhan/CogniTeam)
 
-A full-stack project for managing customer contacts, conversations, configurable AI agents, orders and follow-ups. Development is ongoing, with integrations and workflows being refined.
+---
+
+#### ◉ WahaBot
+
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-2563EB?style=flat-square" alt="Status: In Development">
+
+**A workspace for WhatsApp business workflows.**
+
+A full-stack project for customer contacts, conversations, configurable AI agents, orders and follow-ups. Integrations and workflows are still being refined.
 
 `React` `Node.js` `Express` `MariaDB` `REST APIs` `AI Integration`
 
-## Toolkit
+### `04` / beyond the code
 
-| Area | Technologies & skills |
-| --- | --- |
-| Frontend | HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS |
-| Backend & data | Node.js, Express, PHP, SQL, MariaDB, PostgreSQL, Supabase |
-| Quality assurance | Functional testing, negative testing, test cases, bug reporting, fix verification, responsive checks |
-| Tools & integration | Git, Visual Studio Code, REST APIs, AI APIs |
-| Security foundations | Access controls, networking fundamentals, risk analysis and business continuity |
+**Software Developer · Big Move Intelligent**  
+September 2026 — Present
 
-## Experience
+Functional and negative testing, defect reporting, fix verification, responsive interface checks and Malay localisation reviews.
 
-**Software Developer — Big Move Intelligent**  
-*September 2026 – Present*
+**Digital Marketing Intern · Big Move Marketing**  
+March 2026 — August 2026
 
-My current work focuses on application QA: testing user flows, permissions and validation; documenting defects; verifying fixes; and reviewing responsive interfaces and Malay localisation.
+Responsive landing pages, CRM and order operations, Meta Ads, lead tracking and WhatsApp sales workflows.
 
-**Digital Marketing Intern — Big Move Marketing**  
-*March 2026 – August 2026*
+---
 
-Worked across responsive landing pages, CRM and order operations, Meta Ads, lead tracking and WhatsApp sales workflows.
+<div align="center">
 
-## Let’s connect
+### got something in mind? let's talk.
 
-Explore my work at **[azriburhan.github.io](https://azriburhan.github.io/)**, connect on **[LinkedIn](https://www.linkedin.com/in/azri-burhan-112b00354/)** or email **[hafizburhan182@gmail.com](mailto:hafizburhan182@gmail.com)**.
+[Portfolio ↗](https://azriburhan.github.io/) &nbsp; / &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/azri-burhan-112b00354/) &nbsp; / &nbsp; [Email ↗](mailto:hafizburhan182@gmail.com)
+
+<sub>thoughtful code. reliable software. real impact.</sub>
+
+</div>
